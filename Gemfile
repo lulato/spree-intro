@@ -48,4 +48,5 @@ gem 'spree', '3.0.1'
 gem 'spree_gateway', github: 'spree/spree_gateway', branch: '3-0-stable'
 gem 'spree_auth_devise', github: 'spree/spree_auth_devise', branch: '3-0-stable'
 
+# gem 'spree_bootstrap_frontend', github: '200Creative/spree_bootstrap_frontend', branch: 'master'
 # gem 'spree_blue_theme', :git => 'git://github.com/spree/spree_blue_theme.git'
